@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse AI — Smart Student Success & Campus Analytics Platform",
+  "description": "Enterprise-grade smart student success and campus analytics platform with explainable risk detection, placement readiness scoring, and data integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
